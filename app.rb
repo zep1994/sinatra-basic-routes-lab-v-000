@@ -6,6 +6,6 @@ class App < Sinatra::Base
   end
   
   get '/hometown' do
-  "Hello, World!"
+  "My hometown is Jackson Mississippi, that is often a security question.. dont hack me please:)"
 end
 end
