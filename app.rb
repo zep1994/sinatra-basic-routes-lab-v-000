@@ -10,6 +10,6 @@ class App < Sinatra::Base
   end
   
   get '/favorite_song' do
-  "Objectively Stairway to Heaven, because if you do not agree Led Zeppelin is the best you are so wrong... The Beatles were good, but try Since I've Been Loving You Live Madison Square Garden 1973.. haha John Lennons ass up there!"
+  "Objectively Stairway to Heaven, because if you do not agree Led Zeppelin is the best you are so wrong... The Beatles were good, but try Since I've Been Loving You Live Madison Square Garden 1973.. haha John Lennons ass up there with Paul McCartney rocking on the mic!"
   end
 end
