@@ -9,7 +9,7 @@ class App < Sinatra::Base
   "My hometown is Jackson Mississippi, that is often a security question.. dont hack me please...my fellow rubiest... MSF was built on Ruby after all.)"
   end
   
-  get '/favorite_song' do
+  get '/favorite-song' do
   "Objectively Kashmir by Led Zeppelin, because if you do not agree Led Zeppelin is the best you are so wrong... The Beatles were good, but try Since I've Been Loving You Live Madison Square Garden 1973.. haha John Lennons ass up there with Paul McCartney rocking on the mic! Subjectivly I have no clue becaue I put all my energy into proving Led Zeppelin is the greatist.. do not even bring up anyone of today.. Taylor Swift has not contributed to a music wave that part of a counter culture movement made high school drop outs rates pretty much increase 10%. Sure unfortnuate and numbers are great but the vibe is not. GEEEEEZ I could go on."
   end
 end
